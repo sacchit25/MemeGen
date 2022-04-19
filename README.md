@@ -1,3 +1,7 @@
+# About the Project
+
+I finished a course on React from Scrimba and this was the capstone project I worked on. Some memes may be better formatted than the others.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
